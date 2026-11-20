@@ -1,6 +1,6 @@
 # SMOKEY VOX 1.7.1 downloads
 
-Build 54 for Mac and Windows. Pitch correction, Full Choir, Stadium Chant and Talkbox in one plug-in.
+Build 57 for Mac and Windows. Pitch correction, Full Choir, Stadium Chant and Talkbox in one plug-in.
 
 | | Download | What is in it |
 |---|---|---|
@@ -10,5 +10,5 @@ Build 54 for Mac and Windows. Pitch correction, Full Choir, Stadium Chant and Ta
 Both versions update themselves from the plug-in: click the version number at the bottom left, then Check for Updates.
 
 Install steps are on the download page. Checksums (SHA-256):
-- Mac: `8c1f917c98225ff4b76118dbc4bfb45f639ab881cf21412be1e19b3826899713`
-- Windows: `7214cac20251191e13d1370d4d3290d53373f8e342d1b80af1fbdd12fdaeed67`
+- Mac: `5c027b7f5ef1f665df5a4c6c246629e89550983c5cb84687880853f47cad78ce`
+- Windows: `2628d9b35d7d4d2401dd25259b7717d302c24f5a77eae2e24d24193094424090`
